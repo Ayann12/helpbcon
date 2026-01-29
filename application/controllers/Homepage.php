@@ -5,6 +5,7 @@ class Homepage extends CI_Controller {
 
 	public function index()
 	{
-		$this->load->view('homepage/index');
+		$data['title'] = 'Homepage IT BCon Helpdesk';
+		$this->load->view('homepage/index',$data);
 	}
 }
