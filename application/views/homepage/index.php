@@ -73,7 +73,7 @@
                       <a class="page-scroll" href="#service">Services</a>
                     </li> -->
                     <li class="nav-item">
-                      <a class="" href="#0">Login</a>
+                      <a class="" href="<?= base_url('auth/login'); ?>">Login</a>
                     </li>
                   </ul>
                 </div>
@@ -103,7 +103,7 @@
               <p class="wow fadeInUp" data-wow-delay=".6s">
                 Please open a ticket for any IT-related issues.
               </p>
-							<a href="<?= base_url('auth/login');?>" class="main-btn btn-hover wow fadeInUp" data-wow-delay=".6s">Report</a>
+							<a href="<?= base_url('auth/login');?>" class="main-btn btn-hover wow fadeInUp" data-wow-delay=".6s">Open Ticket Now</a>
             </div>
 					</div>
 					<div class="col-lg-6">
@@ -156,7 +156,7 @@
 		<!-- ========================= about-section end ========================= -->
 
 		<!-- ========================= service-section start ========================= -->
-		<section id="service" class="service-section img-bg pt-100 pb-100 mt-150">
+		<!-- <section id="service" class="service-section img-bg pt-100 pb-100 mt-150">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-xxl-5 col-xl-6 col-lg-7 col-md-10">
@@ -215,11 +215,11 @@
 				</div>
 
 				<div class="view-all-btn text-center pt-30">
-					<!-- <a href="javascript:void(0)" class="main-btn btn-hover">View All Services</a> -->
+					<a href="javascript:void(0)" class="main-btn btn-hover">View All Services</a>
 				</div>
 
 			</div>
-		</section>
+		</section> -->
 		<!-- ========================= service-section end ========================= -->
 
     <!-- ========================= footer start ========================= -->
