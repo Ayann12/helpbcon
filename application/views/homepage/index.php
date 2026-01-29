@@ -73,7 +73,7 @@
                       <a class="page-scroll" href="#service">Services</a>
                     </li> -->
                     <li class="nav-item">
-                      <a class="" href="<?= base_url('auth/login'); ?>">Login</a>
+                      <a class="" href="<?= base_url('auth'); ?>">Login</a>
                     </li>
                   </ul>
                 </div>
@@ -103,7 +103,7 @@
               <p class="wow fadeInUp" data-wow-delay=".6s">
                 Please open a ticket for any IT-related issues.
               </p>
-							<a href="<?= base_url('auth/login');?>" class="main-btn btn-hover wow fadeInUp" data-wow-delay=".6s">Open Ticket Now</a>
+							<a href="<?= base_url('auth');?>" class="main-btn btn-hover wow fadeInUp" data-wow-delay=".6s">Open Ticket Now</a>
             </div>
 					</div>
 					<div class="col-lg-6">
