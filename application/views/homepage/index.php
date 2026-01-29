@@ -69,9 +69,9 @@
                     <li class="nav-item">
                       <a class="page-scroll" href="#about">About</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                       <a class="page-scroll" href="#service">Services</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                       <a class="" href="#0">Login</a>
                     </li>
@@ -115,35 +115,6 @@
 			</div>
     </section>
 		<!-- ========================= hero-section end ========================= -->
-
-		<!-- ========================= client-logo-section start ========================= -->
-		<section class="client-logo-section pt-150">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-logo text-center">
-							<img src="<?= base_url('assets/homepage/'); ?>assets/img/client-logo/lineicons.svg" alt="">
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-logo text-center">
-							<img src="<?= base_url('assets/homepage/'); ?>assets/img/client-logo/uideck.svg" alt="">
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-logo text-center">
-							<img src="<?= base_url('assets/homepage/'); ?>assets/img/client-logo/pagebulb.svg" alt="">
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-logo text-center">
-							<img src="<?= base_url('assets/homepage/'); ?>assets/img/client-logo/graygrids.svg" alt="">
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- ========================= client-logo-section end ========================= -->
 
 		<!-- ========================= about-section start ========================= -->
 		<section id="about" class="about-section pt-150">
