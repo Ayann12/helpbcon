@@ -96,7 +96,7 @@
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="hero-content">
-							<span class="wow fadeInLeft" data-wow-delay=".2s">Welcome To IT Helpdesk Bakrie Construction</span>
+							<span class="wow fadeInLeft" data-wow-delay=".2s">Welcome to IT Helpdesk Bakrie Construction</span>
               <h1 class="wow fadeInUp" data-wow-delay=".4s">
 								Got an IT Problem? We’ve Got You Covered.
 							</h1>
@@ -128,43 +128,26 @@
 					<div class="col-lg-6">
 						<div class="about-content mb-50">
 							<div class="section-title mb-50">
-								<h1 class="mb-25">Read more about our Digital Agency</h1>
-								<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr,sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores.</p>
+								<h1 class="mb-25">
+                                    Read more about our IT Solutions
+                                </h1>
+								<p>We provide reliable and innovative IT solutions to support your business operations. Our services include system support, troubleshooting, infrastructure management, and technical assistance to ensure your technology runs smoothly, securely, and efficiently. We are committed to delivering fast response times, clear communication, and effective solutions tailored to your organization’s needs.</p>
 							</div>
 							<div class="accordion pb-15" id="accordionExample">
 								<div class="single-faq">
 									<button class="w-100 text-start" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-										Which Service We Provide?
+										Which IT Services Do We Provide?
 									</button>
 							
 									<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-										<div class="faq-content">
-											Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
+										<div class="faq-content">We provide comprehensive IT support services to ensure your systems operate efficiently and reliably.
 										</div>
 									</div>
 								</div>
-								<div class="single-faq">
-									<button class="w-100 text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-										What I need to start design?
-									</button>
-									<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-										<div class="faq-content">
-											Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
-										</div>
-									</div>
-								</div>
-								<div class="single-faq">
-									<button class="w-100 text-start collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-										What  is our design process?
-									</button>
-									<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
-										<div class="faq-content">
-											Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.
-										</div>
-									</div>
-								</div>
+								
+								
 							</div>
-							<a href="javascript:void(0)" class="main-btn btn-hover">View More</a>
+							<!-- <a href="javascript:void(0)" class="main-btn btn-hover">View More</a> -->
 						</div>
 					</div>
 				</div>
@@ -179,7 +162,7 @@
 					<div class="col-xxl-5 col-xl-6 col-lg-7 col-md-10">
 						<div class="section-title text-center mb-50">
 							<h1>Our services</h1>
-							<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt labore.</p>
+							<p>We deliver professional IT services including helpdesk support, system maintenance, troubleshooting, and infrastructure management to ensure reliable and efficient IT operations.</p>
 						</div>
 					</div>
 				</div>
@@ -191,7 +174,7 @@
 								<i class="lni lni-layers"></i>
 							</div>
 							<div class="content">
-								<h3>UI/UX design</h3>
+								<h3>Network</h3>
 								<p>Lorem ipsum dolor sitsdw consetsad pscing eliewtr, diam nonumy.</p>
 							</div>
 						</div>
@@ -213,7 +196,7 @@
 								<i class="lni lni-pallet"></i>
 							</div>
 							<div class="content">
-								<h3>Graphics design</h3>
+								<h3>Maintenance</h3>
 								<p>Lorem ipsum dolor sitsdw consetsad pscing eliewtr, diam nonumy.</p>
 							</div>
 						</div>
@@ -224,7 +207,7 @@
 								<i class="lni lni-vector"></i>
 							</div>
 							<div class="content">
-								<h3>Brand design</h3>
+								<h3>troubleshooting</h3>
 								<p>Lorem ipsum dolor sitsdw consetsad pscing eliewtr, diam nonumy.</p>
 							</div>
 						</div>
@@ -232,7 +215,7 @@
 				</div>
 
 				<div class="view-all-btn text-center pt-30">
-					<a href="javascript:void(0)" class="main-btn btn-hover">View All Services</a>
+					<!-- <a href="javascript:void(0)" class="main-btn btn-hover">View All Services</a> -->
 				</div>
 
 			</div>
